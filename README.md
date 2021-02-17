@@ -5,6 +5,7 @@
 To run the application open it in your IDE, then proceed to check application.properties, next step is to create database named: "tournaments".</h2>
 
 <h3>Technologies used:</h3>
+
 - Java
 - Spring Boot 
 - Spring Security

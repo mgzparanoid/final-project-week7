@@ -3,9 +3,9 @@ This is an application for esports tournament tracker.  Everything is based on y
 To run the application open it in your IDE, then proceed to check application.properties, next step is to create database named: "tournaments".
 
 Technologies used:
-Java
-Spring Boot 
-Spring Security
-Spring Data
-MySQL database
-Hibernate
+- Java
+- Spring Boot 
+- Spring Security
+- Spring Data
+- MySQL database
+- Hibernate
